@@ -81,3 +81,8 @@ console.log("For speed 75 mp/h we need a " + time3 + " hours");
 
 
 //Part3
+
+// In all of the problems above, there are two tools that would make it much easier to implement the logic we need and to reuse the code to test with different values:
+// Control flow, which is how we conditionally determine what a program does next. For example, if we exceed our fuel budget, perhaps the program could automatically change the speed it is testing until it finds the optimal speed.
+// Functions, which are reusable blocks of code, allow us to run pieces of code multiple times without rewriting the code or changing the value of variables in the code itself, like we needed to do above.
+// We will explore control flow in the next lesson, and functions toward the end of the module. Until then, continue exploring with the variety of operators and data types available in JavaScript!
